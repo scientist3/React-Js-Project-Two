@@ -7,6 +7,7 @@ class MainContent extends React.Component {
 		return (
 			<div className="container">
 				<LoginForm />
+				<h1>Testing Deployment on Netlify.</h1>
 				<Tilelist />
 			</div>
 		);
