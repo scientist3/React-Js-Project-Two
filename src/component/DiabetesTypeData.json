@@ -1,0 +1,16 @@
+[{
+    "title": "Type 1 Diabetes",
+    "text": "Type 1 diabetes can develop at any age, but occurs most frequently in children and adolescents. When you have type 1 diabetes, your body produces very little or no insulin, which means that you need daily insulin injections to maintain blood glucose levels under control.",
+    "imgUrl": "https://picsum.photos/id/24/300/300"
+  },
+  {
+    "title": "Type 2 Diabetes",
+    "text": "Type 2 diabetes is more common in adults and accounts for around 90% of all diabetes cases. When you have type 2 diabetes, your body does not make good use of the insulin that it produces. The cornerstone of type 2 diabetes treatment is healthy lifestyle, including increased physical activity and healthy diet.",
+    "imgUrl": "https://picsum.photos/id/241/300/300"
+
+  },
+  {
+    "title": "Type 3 Diabetes",
+    "text": "Gestational diabetes (GDM) is a type of diabetes that consists of high blood glucose during pregnancy and is associated with complications to both mother and child. GDM usually disappears after pregnancy but women affected and their children are at increased risk of developing type 2 diabetes later in life..",
+    "imgUrl": "https://picsum.photos/id/244/300/300"
+  }]
